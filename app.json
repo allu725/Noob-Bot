@@ -1,11 +1,11 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "♤🐼 𝐍𝕠όβ ⓑØт ♪🎉",
     "description": "the telegram Autofilter bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
+    "logo": "https://te.legra.ph/file/12e5cbcff9cc33988393a.jpg",
     "keywords": ["telegram", "auto-filter"],
     "stack": "container",
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/Chandansinghbot/Noob-Bot",
+    "repository": "https://github.com/Chandansinghbot/Noob-Bot",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
